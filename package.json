@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@justalk/pornhub-api": "^3.5.0",
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cookie-parser": "^1.4.6",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "telegraph": "^0.8.22",
+    "telegraph-node": "^1.0.4",
+    "uuid": "^10.0.0"
+  }
+}
